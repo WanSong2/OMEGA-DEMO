@@ -1,0 +1,82 @@
+.topAreaIcon .topAreaIcon04 {
+    background-position: -382px -5px;
+}
+
+.topAreaMenuAllAir {
+    width: auto !important;
+    height: auto !important;
+    padding-right: 30px;
+    padding-bottom: 45px;
+}
+
+.pagination {
+    margin: 0px !important;
+}
+
+.footer .depart-contact .tourtype .domestic .name:first-child:after {
+    right: 0px !important;
+}
+
+.footer .depart-contact .continent {
+    height: 115px !important;
+    width: 738px !important
+}
+
+.footer .depart-contact .tourtype .text {
+    text-align: left;
+}
+
+/*left_mypage*/
+.left_mypage {
+    float: left;
+    width: 220px;
+}
+
+.left_mypage h2 {
+    padding: 20px 0;
+    padding-left: 20px;
+    background-color: #464646;
+    color: #fff;
+    font-size: 1.8em;
+    text-align: left;
+}
+
+.left_mypage .depth1 {
+    background-color: #e4e4e4;
+}
+
+.left_mypage .depth1 li {
+    border-bottom: 1px solid #cbcbcb;
+    padding: 8px 0;
+    text-align: left;
+}
+
+.left_mypage .depth1 li a {
+    padding-left: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.left_mypage .depth1 li a.on {
+    font-weight: 700;
+}
+
+.left_mypage .depth2 {
+    background-color: #f7f7f7;
+}
+
+.left_mypage .depth2 li {
+    padding: 5px 0;
+    padding-left: 30px;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.left_mypage .depth2 li a {
+    color: #666;
+    font-size: 1em;
+}
+
+.left_mypage .depth2 li a.on {
+    color: #1184f0;
+    font-weight: normal;
+}
